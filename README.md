@@ -1,3 +1,5 @@
+# Deprecated - [use `knapsack/knapsack-docker` now](https://github.com/knapsack-cloud/knapsack-docker)
+
 # knapsack-docker
 
 On [Docker Hub here](https://cloud.docker.com/u/basaltinc/repository/docker/basaltinc/knapsack-docker)
